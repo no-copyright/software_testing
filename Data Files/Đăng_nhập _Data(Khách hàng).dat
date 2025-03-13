@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>6c62147c-ad3e-4f97-8b1e-1bed8ea87f7c</dataFileGUID>
-   <dataSourceUrl>D:\Hoctap\SoftwareTesting\Data.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <properties>
