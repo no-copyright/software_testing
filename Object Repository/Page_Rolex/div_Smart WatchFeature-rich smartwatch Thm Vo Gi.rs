@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Smart WatchFeature-rich smartwatch Thm Vo Gi</name>
+   <tag></tag>
+   <elementGuidId>84e62664-157c-497b-aa56-e6aa3951d0f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Smart WatchFeature-rich smartwatch Thêm Vào Giỏ&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cca8cd8-f4ef-4f5a-90d6-c1e96dffd406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item</value>
+      <webElementGuid>6ad376ef-d5d9-4988-99ef-a359c7a7dc46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smart WatchFeature-rich smartwatch Thêm Vào Giỏ</value>
+      <webElementGuid>9cb3f860-65a6-483e-a96f-71023e314ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-item&quot;]</value>
+      <webElementGuid>7d9ecd8f-d6bd-475d-bf33-ec0e35552020</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div</value>
+      <webElementGuid>543ff32b-c235-4c53-98a7-9ad5593fd7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên Hệ'])[1]/following::div[6]</value>
+      <webElementGuid>08011d9c-54b3-455b-aedf-942a323fa4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Điều Khoản'])[1]/following::div[6]</value>
+      <webElementGuid>bb702cba-0c9e-4c16-9134-594a8a6662f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>7f76426b-7316-425a-9573-1a02de74ba09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Smart WatchFeature-rich smartwatch Thêm Vào Giỏ' or . = 'Smart WatchFeature-rich smartwatch Thêm Vào Giỏ')]</value>
+      <webElementGuid>c8ba870e-642b-4399-9439-9ed1da17d503</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Lin H_fa-regular fa-user</name>
+   <name>i_n Hng_fa-regular fa-user</name>
    <tag></tag>
-   <elementGuidId>967c2871-02c0-4310-9eb6-c9998baa63e0</elementGuidId>
+   <elementGuidId>51aa8e08-32b3-4cbb-a76f-ccf74462bde8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
+         <value>//div[@id='root']/div/div/ul/li/p/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>9b89951b-05c2-49a9-a369-3c9b7abd126a</webElementGuid>
+      <webElementGuid>cb0196a9-fd6f-4772-9715-31db4163abe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa-regular fa-user</value>
-      <webElementGuid>94cd087c-45f3-4e49-a095-36096b1383e6</webElementGuid>
+      <webElementGuid>04355981-b0a1-4432-85d4-2989bd766830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,23 +45,23 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5141808f-225b-4976-bbb6-0e978cf31c1f</webElementGuid>
+      <webElementGuid>320f68f4-7d81-49d5-b27c-f2c3b5a061e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;subHeader&quot;]/ul[@class=&quot;subList&quot;]/li[@class=&quot;user&quot;]/i[@class=&quot;fa-regular fa-user&quot;]</value>
-      <webElementGuid>75c12e44-98af-4971-81dd-5e078141c391</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-header&quot;]/div[@class=&quot;admin-header-right&quot;]/ul[@class=&quot;flex-box account-actions&quot;]/li[@class=&quot;flex-box account-dropdown&quot;]/p[1]/i[@class=&quot;fa-regular fa-user&quot;]</value>
+      <webElementGuid>536e4e8f-51b3-415f-8c6b-bd556de06b36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
-      <webElementGuid>d73e6cb7-c1c2-4b5f-97da-40fd9d459544</webElementGuid>
+      <value>//div[@id='root']/div/div/ul/li/p/i</value>
+      <webElementGuid>377bee10-cc3e-40d1-8fb6-1e7eff28bd99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>d6e1831c-acb3-4529-bd06-2907ae413200</webElementGuid>
+      <webElementGuid>ef12c2b3-b60e-456f-bd6f-b1947700b98f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
