@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Đăng_Ký</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a5bf8de6-c0bd-4eed-b77a-d26f0d9ad9b1</testSuiteGuid>
+   <testCaseLink>
+      <guid>75330837-de17-46d0-9c32-3a020a59e94c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Đăng_ký_TC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b3cf3f8a-77bb-48c2-b167-09d010e01642</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Đăng_Ký_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b3cf3f8a-77bb-48c2-b167-09d010e01642</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0c1e6567-2225-4b47-b6b6-86af20f987f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3cf3f8a-77bb-48c2-b167-09d010e01642</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>b78cc8de-f146-4a1b-a3ad-dfff3745c0c1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3cf3f8a-77bb-48c2-b167-09d010e01642</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone</value>
+         <variableId>4024a630-ce46-4b1b-ab3c-bbadc93bfb18</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b3cf3f8a-77bb-48c2-b167-09d010e01642</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pasword</value>
+         <variableId>944a2cd6-462d-4d12-b036-fb640513876a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

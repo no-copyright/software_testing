@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Đăng_nhập _Data(Khách hàng)</name>
+   <name>Đăng_nhập_Data(Quản trị)</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>6c62147c-ad3e-4f97-8b1e-1bed8ea87f7c</dataFileGUID>
+   <dataFileGUID>4f218548-b094-4913-96bb-d8adc6acbb31</dataFileGUID>
    <dataSourceUrl>D:\software_testing\Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
-   <properties>
-      <entry>
-         <key>readAsString</key>
-         <value>true</value>
-      </entry>
-   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Đăng nhập(khách hàng)</sheetName>
+   <sheetName>Đăng nhập(admin)</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

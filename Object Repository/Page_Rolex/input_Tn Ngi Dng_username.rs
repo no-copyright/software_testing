@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter your username&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Tên người dùng&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c81a459b-8019-4817-b1d4-854b80f6ab5e</webElementGuid>
+      <webElementGuid>53885bb0-8083-4425-921b-ad23b47b4b96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>eb4c7ec0-e547-4d3f-8aeb-c0c8283f947a</webElementGuid>
+      <webElementGuid>40e4039d-57b3-4a13-b4d1-d6532dce49c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>82ceced2-86a8-4fa9-8a6d-28dcdc612e28</webElementGuid>
+      <webElementGuid>f7c069fd-dd2c-42e4-aa2a-626a1d520d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter your username</value>
-      <webElementGuid>4eed3ce2-58ef-42bd-9f0c-ecac6378043b</webElementGuid>
+      <value>Tên người dùng</value>
+      <webElementGuid>cd3b3795-6c80-40eb-b929-53bd2bf28367</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;username&quot;)</value>
-      <webElementGuid>d320190a-1a6c-4628-a37d-a1dc8328daa3</webElementGuid>
+      <webElementGuid>5ad1ef89-dd50-4d88-a424-5540dc14eb57</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='username']</value>
-      <webElementGuid>887a42dc-2a88-4646-8431-66be4fa7fd25</webElementGuid>
+      <webElementGuid>3d672e88-ab57-4955-bec9-885d43462c2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/div/form/input[2]</value>
-      <webElementGuid>4e98388e-8089-4560-baae-d80d6dfeda8d</webElementGuid>
+      <webElementGuid>92bbc49c-ec8b-4b46-b2df-c949660a9297</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>4d5b2fa5-1a46-42a3-afbe-9ab2227dd3b1</webElementGuid>
+      <webElementGuid>6de8995d-e1a6-4471-807e-35c7cf5ac146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'username' and @placeholder = 'Tên người dùng']</value>
+      <webElementGuid>cfff22fc-f730-4366-85a3-45451f6b7c8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

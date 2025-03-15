@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_email</name>
+   <name>input_S in Thoi_phone</name>
    <tag></tag>
-   <elementGuidId>27c7bde2-56fc-4b5a-a29e-3d835e8b11c5</elementGuidId>
+   <elementGuidId>1a4a7718-2784-4fbf-93ed-eb1eb95eda1d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#email</value>
+         <value>#phone</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='email']</value>
+         <value>//input[@id='phone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Email&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Số điện thoại&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a8d02c6a-fbda-4313-bc2d-02f722cc1e4e</webElementGuid>
+      <webElementGuid>4750e90e-6adc-4593-b52f-0a0eecc0bdb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>3637fd75-5c8e-4e5f-bd91-8a129622c049</webElementGuid>
+      <value>text</value>
+      <webElementGuid>a9918102-c74c-480c-803b-cc99d7b950d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>1be46f6f-0552-4fd0-b820-297de2631bfc</webElementGuid>
+      <value>phone</value>
+      <webElementGuid>466044fd-413a-401a-b38a-0898b1198ab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>6bf5393b-429f-47c0-974f-0ec6b6ce925f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>d</value>
-      <webElementGuid>c45cf527-8630-4d2e-84ac-0b4743de19e2</webElementGuid>
+      <value>Số điện thoại</value>
+      <webElementGuid>1b9bf2de-21f4-478d-b3ae-7fb27ff69a23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email&quot;)</value>
-      <webElementGuid>6249015c-8494-4d21-9265-f55c6bbcfbb1</webElementGuid>
+      <value>id(&quot;phone&quot;)</value>
+      <webElementGuid>7af041fb-a930-4f2e-bd45-12ad1471c69f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email']</value>
-      <webElementGuid>b34eb075-5223-4182-b40c-15faf7f9e489</webElementGuid>
+      <value>//input[@id='phone']</value>
+      <webElementGuid>69bca49f-0686-46a0-8fd8-77276bec1d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/form/input</value>
-      <webElementGuid>e56acea6-144e-4ddc-9f2e-e2a5c65ce18b</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/div/form/input[3]</value>
+      <webElementGuid>250dadb4-b248-4b79-8030-b88927b534e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>7eb85a21-2266-4b12-83be-44d033268cc9</webElementGuid>
+      <value>//input[3]</value>
+      <webElementGuid>c7129d4e-2239-4413-9635-3d7a23d067f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @id = 'email' and @placeholder = 'Email']</value>
-      <webElementGuid>cdd53a0b-f5dd-486d-92e6-382265a31402</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'email' and @id = 'email' and @placeholder = 'Enter your email']</value>
-      <webElementGuid>9231ad17-40c1-40c1-b442-2fb55845b511</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'phone' and @placeholder = 'Số điện thoại']</value>
+      <webElementGuid>970383b0-f5af-4bb0-a90c-074638c4bd93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
