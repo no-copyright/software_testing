@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Mật khẩu&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Enter your password&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0cc75d0d-6809-41ce-8ddc-e45f80984e13</webElementGuid>
+      <webElementGuid>d25cd3d6-f399-4c57-a7b5-a124c1a27af0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>0147da3e-8e21-4bbd-b036-5f7595607727</webElementGuid>
+      <webElementGuid>908352b3-e145-4598-9cb6-a342f90c342d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>03e06896-75f4-4f38-a26c-86527310706d</webElementGuid>
+      <webElementGuid>e2d9c7fe-7b90-49cd-97f0-da0a9139e17a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Mật khẩu</value>
-      <webElementGuid>14faad4b-ef07-471b-9d21-b6886d0b920a</webElementGuid>
+      <value>Enter your password</value>
+      <webElementGuid>81414c0c-c429-494e-9cf5-5f7d3253b1d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>038d5b76-b92c-4e4a-88b2-38b542221b1b</webElementGuid>
+      <webElementGuid>27aabeb7-15d1-4d1d-9c28-47f9780d0097</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>4eb0bc5b-f9af-41bf-89c9-efe4f309843f</webElementGuid>
+      <webElementGuid>aac2c205-9b96-493b-9df5-7bade8d3ceb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/form/input[2]</value>
+      <webElementGuid>915d8919-6bfb-48e5-992e-230dde171f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>f45129f3-6c1f-4a10-8a51-17fdf3d8fac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Enter your password']</value>
+      <webElementGuid>63c6cac2-d6b8-447f-80a8-55efa03318fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,29 +134,5 @@
       <type>Main</type>
       <value>//input[3]</value>
       <webElementGuid>4fdddcd3-4870-44fc-9ff2-588808f6156b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Enter your password']</value>
-      <webElementGuid>b1b408a1-f896-402f-9a2d-313b5dfef7f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/form/input[2]</value>
-      <webElementGuid>7a3643d8-9678-4a40-9f66-dc4c964f1a7c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>33c991c4-8c16-4119-b483-e518d3a98812</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Tn Ngi Dng_username</name>
+   <name>button_Thanh ton</name>
    <tag></tag>
-   <elementGuidId>1ac643f4-60ea-473c-8357-2b79e36df853</elementGuidId>
+   <elementGuidId>97fa5278-f392-4dcb-bd67-062560f5b9c5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>#btnPopup</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//button[@id='btnPopup']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter your username&quot;i]</value>
+         <value>internal:role=button[name=&quot;Thanh toán&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,95 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>74fa1f4c-895f-4d0c-beaa-c940c98ac4ad</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>e5e1b696-5e44-4a26-8257-4aa915dcf57f</webElementGuid>
+      <value>button</value>
+      <webElementGuid>e7193c90-4449-4ea1-9336-5cc21804e2ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>4de0b0ae-4e84-4b41-bc11-29cfc36dc721</webElementGuid>
+      <value>btnPopup</value>
+      <webElementGuid>056faea6-904b-4438-8df1-93e4d7b9556d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Enter your username</value>
-      <webElementGuid>c906e3fb-f9cf-410e-8486-c765019d259b</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>707c272b-730d-4400-bef1-ff3db81885c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>922bc167-bc69-4c04-b073-a2dd3bc62317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán</value>
+      <webElementGuid>3b2758cc-064d-4f23-85f3-bb009e8b2e03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>b4dfad7a-2baf-49c5-a95a-0033884d0a49</webElementGuid>
+      <value>id(&quot;btnPopup&quot;)</value>
+      <webElementGuid>d128d3f6-d49c-4311-aa2c-7a5d6b1fb105</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>21198326-ad05-475e-a938-7dfeed47d2e8</webElementGuid>
+      <value>//button[@id='btnPopup']</value>
+      <webElementGuid>17756c39-56ac-4845-a5ac-957a8d257563</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/form/input</value>
-      <webElementGuid>c739b14a-76d7-4486-9c04-0d5648e4ac66</webElementGuid>
+      <value>//form[@id='createOrder']/button</value>
+      <webElementGuid>78753777-780e-487e-bde1-b08f6461c17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngôn ngữ'])[1]/following::button[1]</value>
+      <webElementGuid>2829d43b-37ce-4b4c-b138-634c59b9219b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thanh toán']/parent::*</value>
+      <webElementGuid>92e26cb4-03a1-4901-b0ea-bb7840da229f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>0df21e43-d159-46ca-bfd1-a2f654662ed3</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>b1f6b643-b213-4eaa-a272-27b00a7ac3fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username' and @placeholder = 'Enter your username']</value>
-      <webElementGuid>56be1292-b807-452e-8465-d2bbd9698d70</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/form/input[2]</value>
-      <webElementGuid>92bbc49c-ec8b-4b46-b2df-c949660a9297</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>6de8995d-e1a6-4471-807e-35c7cf5ac146</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username' and @placeholder = 'Tên người dùng']</value>
-      <webElementGuid>cfff22fc-f730-4366-85a3-45451f6b7c8d</webElementGuid>
+      <value>//button[@id = 'btnPopup' and @type = 'submit' and (text() = 'Thanh toán' or . = 'Thanh toán')]</value>
+      <webElementGuid>827b1863-2228-4f71-a494-a0617322c7a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

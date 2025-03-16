@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4ced8560-aa65-4af3-9e0f-cbc8ae23951f</webElementGuid>
+      <webElementGuid>57ccde25-98ec-4144-a6ab-995ca221013b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/product</value>
-      <webElementGuid>e0279685-3f17-427a-9cc6-86f0de08bf98</webElementGuid>
+      <webElementGuid>39ff276e-674d-444b-87db-bdd757a297e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-discover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e8d3e3f1-c938-4496-89e4-d6d49fb4660d</webElementGuid>
+      <webElementGuid>e5dafbf0-9836-4d5b-a1b1-045af408eaa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sản Phẩm</value>
-      <webElementGuid>eb5e1825-6254-48f7-a8b1-d6d30a5a2a5e</webElementGuid>
+      <webElementGuid>00dc0e23-7435-4a9b-93cd-49e89d0bd0dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar&quot;]/ul[@class=&quot;navList&quot;]/li[@class=&quot;navLink&quot;]/a[1]</value>
-      <webElementGuid>31192f5f-8f7e-479a-8b34-b8e1a65d8d5d</webElementGuid>
+      <webElementGuid>259d400e-3510-4c7f-a4a7-4f2efadbbdac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/div/div[2]/ul/li[2]/a</value>
-      <webElementGuid>6f813df3-a8a3-44d8-914a-200a33d14b51</webElementGuid>
+      <webElementGuid>7eec6b30-d064-43d3-85c2-e86ea9afdca0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sản Phẩm')]</value>
-      <webElementGuid>cd703e2c-264e-40c8-b04e-badfe93d1f72</webElementGuid>
+      <webElementGuid>b0e7aa38-17c6-4683-9e38-e44ba6d44b18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang Chủ'])[1]/following::a[1]</value>
-      <webElementGuid>8c22fdc6-1a55-477f-8f6b-75220c2547f9</webElementGuid>
+      <webElementGuid>83da850a-6894-4209-aafe-868f0861f287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Điều Khoản'])[1]/preceding::a[1]</value>
-      <webElementGuid>c59c178f-6b6e-4b54-9b8b-bef2adce2640</webElementGuid>
+      <webElementGuid>554a3dd8-affa-4f6d-9ca7-e732278acb55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên Hệ'])[1]/preceding::a[2]</value>
-      <webElementGuid>2973ffa8-0a49-4248-bf13-4766b1544337</webElementGuid>
+      <webElementGuid>de9b1f26-e288-4cf1-8933-2e1dc7bfd0a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sản Phẩm']/parent::*</value>
-      <webElementGuid>368b6f5e-cd48-4f02-9e08-c1ee11237c70</webElementGuid>
+      <webElementGuid>46c56347-b58c-458e-ac12-5f14175edbeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/product')]</value>
-      <webElementGuid>c9491517-1e2d-4fcb-b4aa-ec85b21ce02a</webElementGuid>
+      <webElementGuid>2d4527c8-71a9-4ef7-aaec-e2002cafdc12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>4bc6c352-d52c-44f0-9fe3-17a63ad6add4</webElementGuid>
+      <webElementGuid>a2c694d7-df89-4caa-bb7f-5f2b975929c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/product' and (text() = 'Sản Phẩm' or . = 'Sản Phẩm')]</value>
-      <webElementGuid>25aa96f7-61c2-4a35-93bf-32b4980be792</webElementGuid>
+      <webElementGuid>8d5b0c79-7e81-4ff5-ba74-6aec25ab7162</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

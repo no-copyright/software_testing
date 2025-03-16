@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Lin H_fa-regular fa-user</name>
+   <name>div_Th ni a v ti khon ngn hng_list-bank-item-inner</name>
    <tag></tag>
-   <elementGuidId>967c2871-02c0-4310-9eb6-c9998baa63e0</elementGuidId>
+   <elementGuidId>36795529-9502-46cb-ada2-424f42087aee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>i.fa-regular.fa-user</value>
+         <value>#NCB > div.list-bank-item-inner</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
+         <value>//button[@id='NCB']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>i >> nth=0</value>
+         <value>#NCB</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,47 +28,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>7322b7da-bee2-4f02-959b-170785eba25f</webElementGuid>
+      <value>div</value>
+      <webElementGuid>d600d9e4-23d3-4885-946a-1d2383ff0953</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa-regular fa-user</value>
-      <webElementGuid>1e8015b1-dc51-4749-8f28-c32eaac06c36</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>8541a53e-f6f2-468f-97ae-b2fed945201f</webElementGuid>
+      <value>list-bank-item-inner</value>
+      <webElementGuid>ebc30d08-e548-4341-9a6e-1d58e8b34e7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;subHeader&quot;]/ul[@class=&quot;subList&quot;]/li[@class=&quot;user&quot;]/i[@class=&quot;fa-regular fa-user&quot;]</value>
-      <webElementGuid>0ad177cc-be2d-4022-964b-4785da4f2753</webElementGuid>
+      <value>id(&quot;NCB&quot;)/div[@class=&quot;list-bank-item-inner&quot;]</value>
+      <webElementGuid>3a8aef0a-c669-4dde-90df-81f5772669d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
-      <webElementGuid>3b75f611-dbfb-4560-ac0d-ee5ca6a1176e</webElementGuid>
+      <value>//button[@id='NCB']/div</value>
+      <webElementGuid>0089af9f-269a-4c27-8502-6bcebe03759a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//i</value>
-      <webElementGuid>11999237-b7b5-46ab-b4f6-12a373dd47b4</webElementGuid>
+      <value>//div[15]/button/div</value>
+      <webElementGuid>913ccbfc-4ffe-49e7-9324-6adbe9b3eeb0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
