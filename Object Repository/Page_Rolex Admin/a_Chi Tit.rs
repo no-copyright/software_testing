@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Sn Phm</name>
+   <name>a_Chi Tit</name>
    <tag></tag>
-   <elementGuidId>bf8a4e3f-3784-4845-82c6-e4ebdb8e970e</elementGuidId>
+   <elementGuidId>233a249d-927d-4de2-9a94-0a0029ffa2e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>tr:nth-of-type(2) > td:nth-of-type(5) > button.btn.btn-edit > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/div/div[2]/ul/li[2]/a</value>
+         <value>//div[@id='root']/div[3]/table/tbody/tr[2]/td[5]/button/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Sản Phẩm&quot;i]</value>
+         <value>internal:role=row[name=&quot;longvh Đang Xử Lý 299.99 11:42:55 04/03/2025 Chi Tiết Hoàn Thành&quot;i] >> internal:role=link</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6c0fab54-1425-444b-9c07-fbaa32b2adc7</webElementGuid>
+      <webElementGuid>c82b6e5e-ef10-4144-9a12-08a8c830841e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/product</value>
-      <webElementGuid>1db059c5-7769-445c-bb73-5847af94861b</webElementGuid>
+      <value>/orderItem/5</value>
+      <webElementGuid>efa173d7-aa86-4971-a484-8904fe16f955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,94 +45,94 @@
       <name>data-discover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>13147cd5-9d2a-449f-b778-f0baae9ac3da</webElementGuid>
+      <webElementGuid>0755df51-5312-48a6-9eb0-33032f5f327d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sản Phẩm</value>
-      <webElementGuid>9c702208-6155-49ed-8e85-1c530ada016d</webElementGuid>
+      <value>Chi Tiết</value>
+      <webElementGuid>12ef75c5-ff5d-4941-83fd-ef5aacf2a792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar&quot;]/ul[@class=&quot;navList&quot;]/li[@class=&quot;navLink&quot;]/a[1]</value>
-      <webElementGuid>172ea5c6-3904-4705-979e-29f528cfaaa3</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-content-main-content&quot;]/table[@class=&quot;admin-table&quot;]/tbody[1]/tr[2]/td[5]/button[@class=&quot;btn btn-edit&quot;]/a[1]</value>
+      <webElementGuid>8ba37ebe-6ad4-48a9-8cb4-40298afaaf19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/div/div[2]/ul/li[2]/a</value>
-      <webElementGuid>a53afbbc-b588-4797-8493-2e2e25a83ec0</webElementGuid>
+      <value>//div[@id='root']/div[3]/table/tbody/tr[2]/td[5]/button/a</value>
+      <webElementGuid>de15e166-f043-4851-8f68-98255d2e210f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Sản Phẩm')]</value>
-      <webElementGuid>b18e3299-f225-43e8-b559-69101b03b2be</webElementGuid>
+      <value>(//a[contains(text(),'Chi Tiết')])[2]</value>
+      <webElementGuid>5f5b234e-0fe0-41d6-8ad7-c992ec2bbfca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang Chủ'])[1]/following::a[1]</value>
-      <webElementGuid>12a7db4e-6298-4505-9ca6-5d76f5dbe0b3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đang Xử Lý'])[2]/following::a[1]</value>
+      <webElementGuid>96226000-b1e3-487a-866a-370badfb1183</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Điều Khoản'])[1]/preceding::a[1]</value>
-      <webElementGuid>7dd16417-e0f5-46a3-9579-e6bc492ba3ad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='longvh'])[2]/following::a[1]</value>
+      <webElementGuid>dd7b4aef-7699-4b56-baf9-06f11d27a347</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên Hệ'])[1]/preceding::a[2]</value>
-      <webElementGuid>7c7c0e23-414f-4498-98d3-4998d6dd8d5e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoàn Thành'])[1]/preceding::a[1]</value>
+      <webElementGuid>7f4a6ca6-62e1-4982-88ca-e0badf468842</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sản Phẩm']/parent::*</value>
-      <webElementGuid>fbbd2a99-6035-493c-9471-c997b07810c3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='longvh'])[3]/preceding::a[1]</value>
+      <webElementGuid>5f22c9c7-2182-43a8-851c-4d15bad9f436</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/product')]</value>
-      <webElementGuid>fb5ffc95-c1a0-4803-944a-f456e158cc57</webElementGuid>
+      <value>//a[contains(@href, '/orderItem/5')]</value>
+      <webElementGuid>14cb701b-a7aa-42cc-897e-de28dae1492e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a</value>
-      <webElementGuid>ab16af0d-9475-4e79-846c-46b2fe1533c2</webElementGuid>
+      <value>//tr[2]/td[5]/button/a</value>
+      <webElementGuid>1c3e1ceb-43cf-420c-90c8-fd83cc3e123e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/product' and (text() = 'Sản Phẩm' or . = 'Sản Phẩm')]</value>
-      <webElementGuid>fe25a71d-20f1-4fef-a818-89411797a839</webElementGuid>
+      <value>//a[@href = '/orderItem/5' and (text() = 'Chi Tiết' or . = 'Chi Tiết')]</value>
+      <webElementGuid>3d61a4ca-b128-4500-bb25-9435741035d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

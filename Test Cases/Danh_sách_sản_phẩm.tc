@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Danh_sách_sản_phẩm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90f45c06-ac3f-445d-926a-6cbab16c789b</testCaseGuid>
+</TestCaseEntity>

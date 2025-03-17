@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>cb0196a9-fd6f-4772-9715-31db4163abe0</webElementGuid>
+      <webElementGuid>bf52dd8d-7d0b-493a-9a94-1f29373a6f46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa-regular fa-user</value>
-      <webElementGuid>04355981-b0a1-4432-85d4-2989bd766830</webElementGuid>
+      <webElementGuid>21ee3ad0-b3ce-404f-9a0b-3055a763a9ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>320f68f4-7d81-49d5-b27c-f2c3b5a061e5</webElementGuid>
+      <webElementGuid>72fb4ed2-3085-48cc-bfdb-70bdd6b2b251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;admin-header&quot;]/div[@class=&quot;admin-header-right&quot;]/ul[@class=&quot;flex-box account-actions&quot;]/li[@class=&quot;flex-box account-dropdown&quot;]/p[1]/i[@class=&quot;fa-regular fa-user&quot;]</value>
-      <webElementGuid>536e4e8f-51b3-415f-8c6b-bd556de06b36</webElementGuid>
+      <webElementGuid>42b1a709-0d3e-441b-9f5d-412d857814d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/ul/li/p/i</value>
-      <webElementGuid>377bee10-cc3e-40d1-8fb6-1e7eff28bd99</webElementGuid>
+      <webElementGuid>567b2c9f-1dc7-4432-933b-924963a22653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>ef12c2b3-b60e-456f-bd6f-b1947700b98f</webElementGuid>
+      <webElementGuid>1f1eb568-6464-4f78-8460-b5aa1af1ac61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
