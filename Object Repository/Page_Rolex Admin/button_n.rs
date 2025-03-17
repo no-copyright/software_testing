@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Thm Vo Gi_1</name>
+   <name>button_n</name>
    <tag></tag>
-   <elementGuidId>543496fe-ee7f-4f84-b8fa-f2d78e7add75</elementGuidId>
+   <elementGuidId>ac0be907-51fb-4208-81fd-cfcc6d2079ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>tr:nth-of-type(6) > td:nth-of-type(9) > button.btn.btn-delete</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div/div[2]/button</value>
+         <value>//div[@id='root']/div[3]/table/tbody/tr[6]/td[9]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Smart WatchFeature-rich smartwatch Thêm Vào Giỏ$/ >> internal:role=button</value>
+         <value>internal:role=row[name=&quot;20 Test Test Test Test Test 1000 Visible Sửa Ẩn Xóa&quot;i] >> internal:role=button >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>922ad721-17b9-49d4-b5c1-e2812b7091b9</webElementGuid>
+      <webElementGuid>3fe8c6e7-587e-4f9f-aab9-2e001ab8a654</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>add-to-cart-btn</value>
-      <webElementGuid>240ced12-d54f-496d-b6f6-f348a809b863</webElementGuid>
+      <value>btn btn-delete</value>
+      <webElementGuid>75177b4b-11e1-4b25-8ef4-11e7bd68c3e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Thêm Vào Giỏ</value>
-      <webElementGuid>fd3af0c6-58d7-4b6f-9a14-8aa3bb66c440</webElementGuid>
+      <value>Ẩn</value>
+      <webElementGuid>39c5827b-ece2-4672-9a86-9a4a6f11b580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-item&quot;]/button[@class=&quot;add-to-cart-btn&quot;]</value>
-      <webElementGuid>1c67713a-1d56-45b7-a2a9-cae03516c296</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-content-main-content&quot;]/table[@class=&quot;admin-table&quot;]/tbody[1]/tr[6]/td[9]/button[@class=&quot;btn btn-delete&quot;]</value>
+      <webElementGuid>05799106-09f2-4976-a47b-29fc74631a1f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div[2]/button</value>
-      <webElementGuid>09ee6bd6-6121-4bde-a66f-aafe0e45bad8</webElementGuid>
+      <value>//div[@id='root']/div[3]/table/tbody/tr[6]/td[9]/button</value>
+      <webElementGuid>5122fc66-3e54-4ec0-a608-ff39c30a30c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Watch'])[1]/following::button[1]</value>
-      <webElementGuid>54dc8a7a-93ff-45cf-9942-f9e9b344dfa9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sửa'])[6]/following::button[1]</value>
+      <webElementGuid>fe5cae9e-a5e2-4861-852b-8e3c6266e074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm Vào Giỏ'])[1]/following::button[1]</value>
-      <webElementGuid>6f686bb7-4234-42ee-bd0a-71d5581a2b2b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visible'])[6]/following::button[1]</value>
+      <webElementGuid>3fe97daf-969f-4bcf-a2fc-565a4442531f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luxury Watch'])[1]/preceding::button[1]</value>
-      <webElementGuid>61ead32a-9605-4015-87dc-d359f6e8d348</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm Vào Giỏ'])[3]/preceding::button[1]</value>
-      <webElementGuid>98b61dcb-b9fe-449d-bb98-c8b1163e83b7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[6]/preceding::button[1]</value>
+      <webElementGuid>dcb98863-691b-4a12-b31d-52a75f1cc84a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>c20ad761-bdb6-425f-8a7c-06fa797826d5</webElementGuid>
+      <value>//tr[6]/td[9]/button</value>
+      <webElementGuid>61384d2e-80a9-49cc-aa1b-1bd683e05a5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Thêm Vào Giỏ' or . = ' Thêm Vào Giỏ')]</value>
-      <webElementGuid>9329325e-c7a0-4af2-94b7-5769e87b225c</webElementGuid>
+      <value>//button[(text() = 'Ẩn' or . = 'Ẩn')]</value>
+      <webElementGuid>51568b43-e9df-49f1-94c5-113a5f6cc65a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

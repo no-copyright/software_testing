@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>65555613-2878-41cb-93a6-f5d32ffcbbca</webElementGuid>
+      <webElementGuid>9a12787e-6608-4004-a341-b57092d4d4d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa-solid fa-cart-shopping</value>
-      <webElementGuid>8bb2d092-7423-458c-a41c-7ca5e18438e6</webElementGuid>
+      <webElementGuid>8e63d9da-7cb9-4b1c-941e-b163d862a97a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3cfecb42-43b4-44e5-90a3-4e201c2a249f</webElementGuid>
+      <webElementGuid>20e70246-f61f-411a-8ee6-9eab5810cf7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;subHeader&quot;]/ul[@class=&quot;subList&quot;]/li[@class=&quot;shopping-cart&quot;]/i[@class=&quot;fa-solid fa-cart-shopping&quot;]</value>
-      <webElementGuid>a8855207-af6a-42b0-acac-58239566616a</webElementGuid>
+      <webElementGuid>adb05c33-a283-46aa-a408-57a44459aa76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/div/div[3]/ul/li[2]/i</value>
-      <webElementGuid>36504b90-c693-4089-b977-dacfa0e683ab</webElementGuid>
+      <webElementGuid>9c6ee01a-7862-4a77-9b75-aa3d77b3a8a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/i</value>
-      <webElementGuid>e370dcf1-b66b-41ff-95e1-553b6d82bcd6</webElementGuid>
+      <webElementGuid>b23d52b8-39e5-4bc9-a4a5-83f6bedbe52e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

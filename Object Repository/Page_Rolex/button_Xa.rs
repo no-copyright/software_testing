@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Thm Vo Gi</name>
+   <name>button_Xa</name>
    <tag></tag>
-   <elementGuidId>9fda2bf5-6485-431e-9bd9-4ae17d9fc5eb</elementGuidId>
+   <elementGuidId>9e1a910c-8c01-46b6-8607-e8514b1baaf4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.add-to-cart-btn</value>
+         <value>button.remove-item-btn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div/div/button</value>
+         <value>//div[@id='root']/div[2]/div[3]/div/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Classic WatchElegant analog watch Thêm Vào Giỏ$/ >> internal:role=button</value>
+         <value>internal:role=button[name=&quot;Xóa&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51992d4a-1103-43ef-96e5-9c44ab81139e</webElementGuid>
+      <webElementGuid>933e4878-b275-4dc9-be2c-7240a9f1b9cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>add-to-cart-btn</value>
-      <webElementGuid>54217be3-7d68-4d43-a545-3f5c4efb0d25</webElementGuid>
+      <value>remove-item-btn</value>
+      <webElementGuid>7d116ae0-c8f8-497a-ba8d-310a53f155cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Thêm Vào Giỏ</value>
-      <webElementGuid>b0af988f-424e-465b-ba51-43a319071959</webElementGuid>
+      <value> Xóa</value>
+      <webElementGuid>2b6c2817-0a95-4008-b58e-40c23e93030e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-item&quot;]/button[@class=&quot;add-to-cart-btn&quot;]</value>
-      <webElementGuid>723d6a34-1d50-44be-b2f9-2ac38f920e00</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;cart-modal&quot;]/div[@class=&quot;cart-items&quot;]/div[@class=&quot;cart-item&quot;]/div[@class=&quot;cart-item-details&quot;]/button[@class=&quot;remove-item-btn&quot;]</value>
+      <webElementGuid>ad6e306c-b6cc-44db-b534-7457c40c69dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/button</value>
-      <webElementGuid>15e75638-9bb0-4f36-ae14-b4556952f499</webElementGuid>
+      <value>//div[@id='root']/div[2]/div[3]/div/div/div/button</value>
+      <webElementGuid>aa501356-c183-42d2-a67d-a33519d3d8c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classic Watch'])[1]/following::button[1]</value>
-      <webElementGuid>8e8d0152-3265-4cb6-8e10-2c8654f72ea3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ Hàng Của Bạn'])[1]/following::button[1]</value>
+      <webElementGuid>35446a84-b681-4362-b73b-fb9a49231b23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên Hệ'])[1]/following::button[1]</value>
-      <webElementGuid>b0abcd5e-d573-4099-b6b0-13f9149a8b00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm Vào Giỏ'])[5]/following::button[2]</value>
+      <webElementGuid>1b580fd8-aeb9-4a66-88c8-3ef9dff420b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Watch'])[1]/preceding::button[1]</value>
-      <webElementGuid>61cde1d9-04f4-4417-a10b-06fd427524e4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt Hàng'])[1]/preceding::button[1]</value>
+      <webElementGuid>79c48113-9bb1-4929-bad1-68f8fcaa690c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm Vào Giỏ'])[2]/preceding::button[1]</value>
-      <webElementGuid>13a8dd08-d9a2-41ea-b595-1fc066fd8839</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Về WatchShop'])[1]/preceding::button[2]</value>
+      <webElementGuid>023ff877-13cc-4c49-bcc6-6b69568cbda5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Thêm Vào Giỏ']/parent::*</value>
-      <webElementGuid>539684ec-15a6-4818-a6cf-739b33a76763</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Xóa']/parent::*</value>
+      <webElementGuid>cc461079-c2d4-49ba-9efa-761d8856468c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>9d18f7fc-6bc0-43ea-9d88-fb0936119433</webElementGuid>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>1824d69f-f977-424e-802a-7ae0b3edcbd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Thêm Vào Giỏ' or . = ' Thêm Vào Giỏ')]</value>
-      <webElementGuid>439587e3-068a-4fad-aa16-e3f65e1e720c</webElementGuid>
+      <value>//button[(text() = ' Xóa' or . = ' Xóa')]</value>
+      <webElementGuid>099fa870-cd25-492a-b0ca-7656f79f19f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

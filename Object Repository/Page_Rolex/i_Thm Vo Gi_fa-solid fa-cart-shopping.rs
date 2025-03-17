@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Lin H_fa-regular fa-user</name>
+   <name>i_Thm Vo Gi_fa-solid fa-cart-shopping</name>
    <tag></tag>
-   <elementGuidId>967c2871-02c0-4310-9eb6-c9998baa63e0</elementGuidId>
+   <elementGuidId>66f7461e-6b52-46c2-bccf-320e0f43a587</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>i.fa-regular.fa-user</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
+         <value>//div[@id='root']/div[2]/div/div[2]/button/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>i >> nth=0</value>
+         <value>div >> internal:has-text=/^Smart WatchFeature-rich smartwatch Thêm Vào Giỏ$/ >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ddc7cc48-d492-478e-9f6b-4e0040999a60</webElementGuid>
+      <webElementGuid>34917b52-dd15-491e-bc71-6f4b54dd1670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa-regular fa-user</value>
-      <webElementGuid>57541616-6767-470c-b1c9-869afba95c96</webElementGuid>
+      <value>fa-solid fa-cart-shopping</value>
+      <webElementGuid>2545ed52-fd9b-46b1-b824-638c77a351be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,30 +45,30 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3971c777-64a5-4046-ae2e-42e985fcc0ab</webElementGuid>
+      <webElementGuid>ebb84a51-8742-4730-9c57-6e8ea9bbb9be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;subHeader&quot;]/ul[@class=&quot;subList&quot;]/li[@class=&quot;user&quot;]/i[@class=&quot;fa-regular fa-user&quot;]</value>
-      <webElementGuid>4add9115-6178-4d51-aae9-ccb27d688801</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-item&quot;]/button[@class=&quot;add-to-cart-btn&quot;]/i[@class=&quot;fa-solid fa-cart-shopping&quot;]</value>
+      <webElementGuid>dde153db-7e69-40e7-8341-d0d9d83b6b26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
-      <webElementGuid>c4a7c2fb-87ac-4a55-beb4-fedd0ed1c148</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/div[2]/button/i</value>
+      <webElementGuid>0c2c46d1-9898-47d0-9a36-be5bba8b9865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//i</value>
-      <webElementGuid>6f7a1e4f-a76a-4e8f-9436-30c0c152c3d4</webElementGuid>
+      <value>//div[2]/button/i</value>
+      <webElementGuid>0d0805af-e4c7-4100-a0e2-b43358fe91a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Lin H_fa-regular fa-user</name>
+   <name>i_Xa_fa-solid fa-trash-alt</name>
    <tag></tag>
-   <elementGuidId>967c2871-02c0-4310-9eb6-c9998baa63e0</elementGuidId>
+   <elementGuidId>09e331ab-5d07-4b09-a2e4-63ff055f5cb3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>i.fa-regular.fa-user</value>
+         <value>i.fa-solid.fa-trash-alt</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
+         <value>//div[@id='root']/div[2]/div[3]/div/div/div/button/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>i >> nth=0</value>
+         <value>internal:role=button[name=&quot;Xóa&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ddc7cc48-d492-478e-9f6b-4e0040999a60</webElementGuid>
+      <webElementGuid>ffc8175d-147c-4720-b715-e5cb5b068cba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa-regular fa-user</value>
-      <webElementGuid>57541616-6767-470c-b1c9-869afba95c96</webElementGuid>
+      <value>fa-solid fa-trash-alt</value>
+      <webElementGuid>4aa3793d-e49f-4eba-9a0d-a50c2d47442d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,30 +45,30 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3971c777-64a5-4046-ae2e-42e985fcc0ab</webElementGuid>
+      <webElementGuid>839a953c-fa70-4a44-b2fb-d11d93eaa837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;subHeader&quot;]/ul[@class=&quot;subList&quot;]/li[@class=&quot;user&quot;]/i[@class=&quot;fa-regular fa-user&quot;]</value>
-      <webElementGuid>4add9115-6178-4d51-aae9-ccb27d688801</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;cart-modal&quot;]/div[@class=&quot;cart-items&quot;]/div[@class=&quot;cart-item&quot;]/div[@class=&quot;cart-item-details&quot;]/button[@class=&quot;remove-item-btn&quot;]/i[@class=&quot;fa-solid fa-trash-alt&quot;]</value>
+      <webElementGuid>d4f44898-3844-4bb3-8c87-b2916645e0b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/div/div[3]/ul/li/i</value>
-      <webElementGuid>c4a7c2fb-87ac-4a55-beb4-fedd0ed1c148</webElementGuid>
+      <value>//div[@id='root']/div[2]/div[3]/div/div/div/button/i</value>
+      <webElementGuid>e002490c-bd55-4315-bc31-a64d3562ed68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//i</value>
-      <webElementGuid>6f7a1e4f-a76a-4e8f-9436-30c0c152c3d4</webElementGuid>
+      <value>//div[3]/div/div/div/button/i</value>
+      <webElementGuid>ef0020ac-baaa-4594-bd9f-963299af3a9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

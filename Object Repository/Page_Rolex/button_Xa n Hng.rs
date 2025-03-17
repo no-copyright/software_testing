@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_t Hng</name>
+   <name>button_Xa n Hng</name>
    <tag></tag>
-   <elementGuidId>c8620df8-e85c-48eb-8d60-0acd2b068d79</elementGuidId>
+   <elementGuidId>9c050890-4f0b-42ca-bfd7-27bee317cc73</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.submit-cart-btn</value>
+         <value>button.cart-order__remove-btn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div[3]/div[2]/button</value>
+         <value>//div[@id='root']/div[3]/div/div/div/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Đặt Hàng&quot;i]</value>
+         <value>internal:role=button[name=&quot;Xóa Đơn Hàng&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,79 +29,103 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c61a5f0a-3825-4e7c-9a29-9e241bed4ede</webElementGuid>
+      <webElementGuid>a96b4871-aeb3-45b8-8ca1-833273603709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>submit-cart-btn</value>
-      <webElementGuid>f6cefce4-4d5c-4197-9a96-ab4c132bf3f0</webElementGuid>
+      <value>cart-order__remove-btn</value>
+      <webElementGuid>b2b69068-c896-4fc8-b648-85084406ee02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đặt Hàng</value>
-      <webElementGuid>aef6bba5-f31c-4ef1-930b-b46afd57a9d6</webElementGuid>
+      <value>Xóa Đơn Hàng</value>
+      <webElementGuid>02459c4b-98f4-4375-8673-d138b048fdf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;cart-modal&quot;]/div[@class=&quot;cart-total&quot;]/button[@class=&quot;submit-cart-btn&quot;]</value>
-      <webElementGuid>b734e188-119f-4cb6-a0da-f058c485631f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;cart-popup&quot;]/div[@class=&quot;cart-popup__content&quot;]/div[@class=&quot;cart-items&quot;]/div[@class=&quot;cart-order&quot;]/div[@class=&quot;cart-order__footer&quot;]/button[@class=&quot;cart-order__remove-btn&quot;]</value>
+      <webElementGuid>6ee3d59f-1b41-4e52-b56d-657e3ef55b4e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[3]/div[2]/button</value>
-      <webElementGuid>c1be6ed2-cbbb-4a26-9770-97bdad819e96</webElementGuid>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/button</value>
+      <webElementGuid>3a1f7556-29dc-4361-9008-836a57388039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/following::button[1]</value>
-      <webElementGuid>827eb98b-945d-4383-8135-5a54586992c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ Hàng'])[1]/following::button[1]</value>
+      <webElementGuid>5c45a1b2-604e-41c6-a305-6a3c500a963e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ Hàng Của Bạn'])[1]/following::button[2]</value>
-      <webElementGuid>dc7003e5-7c6c-4506-aee5-13f8bdaa651e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh Toán'])[1]/preceding::button[1]</value>
+      <webElementGuid>aaee7dd7-2704-4ae3-9fe3-02dfdf98bc08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Về WatchShop'])[1]/preceding::button[1]</value>
-      <webElementGuid>f03f86d9-eacb-4abe-9955-a84c670d2019</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Xóa Đơn Hàng']/parent::*</value>
+      <webElementGuid>86f7402d-520d-40ac-8980-48865c265283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/button</value>
+      <webElementGuid>841e9a25-3151-460d-9889-6c6482b4a627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Xóa Đơn Hàng' or . = 'Xóa Đơn Hàng')]</value>
+      <webElementGuid>162476f8-d79e-4218-815d-29371fd2b164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[3]/div[2]/button</value>
+      <webElementGuid>aa0ff7ac-75ff-4925-9ca5-ac092cd33ec3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên Hệ'])[2]/preceding::button[1]</value>
-      <webElementGuid>c343ec3e-ce42-444a-8157-966e5f2df58e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh Toán'])[1]/following::button[1]</value>
+      <webElementGuid>756fda6e-707e-4471-b2a9-827459a51992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Đặt Hàng']/parent::*</value>
-      <webElementGuid>d8997fc5-06e5-4aa4-81d1-85208c34d756</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh Toán'])[2]/preceding::button[1]</value>
+      <webElementGuid>886c9331-ed3c-4b31-a98d-3c1e7f6e134d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,30 +133,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/button</value>
-      <webElementGuid>7edc6d84-d160-4f09-89a2-61e63f9d862e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = 'Đặt Hàng' or . = 'Đặt Hàng')]</value>
-      <webElementGuid>08a2ae32-2ec2-4edf-b06d-3e95f7505910</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[2]/following::button[1]</value>
-      <webElementGuid>b69e4048-55cf-4781-8287-daf05632d2d7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/following::button[2]</value>
-      <webElementGuid>8e8c9484-6da4-40d2-89b7-34bb6b1b8f5d</webElementGuid>
+      <webElementGuid>25e284fd-a772-449d-8efe-93ce1aeb65bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
