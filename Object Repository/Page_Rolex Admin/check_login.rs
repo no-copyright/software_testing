@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng Nhp</name>
+   <name>check_login</name>
    <tag></tag>
-   <elementGuidId>595903bf-c7cc-46f0-951d-d01937378b30</elementGuidId>
+   <elementGuidId>091d547f-47ad-47b0-ac68-d50f4b24b003</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.login-button</value>
+         <value>p.error-message</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='root']/div/form/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Đăng Nhập&quot;i]</value>
+         <value>internal:text=&quot;User not found!&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>12029786-659b-4378-903a-c828fef1f3ab</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>f332028c-463b-47c8-9c98-266723b3af82</webElementGuid>
+      <value>p</value>
+      <webElementGuid>78e0afb7-bd8e-4854-9f4a-cf5335d2913b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>login-button</value>
-      <webElementGuid>f985e8f0-6263-476d-b71d-e6bb64ab505e</webElementGuid>
+      <value>error-message</value>
+      <webElementGuid>777a227f-f8dd-4d95-af57-40248fcef9b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đăng Nhập</value>
-      <webElementGuid>efd1339b-9ee6-461f-b4e7-79b7c4ec9eea</webElementGuid>
+      <value>User not found!</value>
+      <webElementGuid>edbada18-8cc4-4180-a0ac-575dc64783a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/form[@class=&quot;login-form&quot;]/button[@class=&quot;login-button&quot;]</value>
-      <webElementGuid>bffbfcc3-0988-40ae-936e-398fc39aa9e6</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/form[@class=&quot;login-form&quot;]/p[@class=&quot;error-message&quot;]</value>
+      <webElementGuid>15f32820-6c3d-4a42-9542-39bf524e6f6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>8c45e3dc-df41-46f8-b3ef-749121b44ae7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/button</value>
-      <webElementGuid>8a8539d0-6336-41ef-b9db-32dd671ec6b8</webElementGuid>
+      <value>//div[@id='root']/div/form/p</value>
+      <webElementGuid>daf70dd4-ac75-4a06-b3c3-9326b3421a27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật Khẩu:'])[1]/following::button[1]</value>
-      <webElementGuid>58f1be95-613f-460c-a5f9-fa476fab8387</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật Khẩu:'])[1]/following::p[1]</value>
+      <webElementGuid>86274e9e-ed3a-4aef-a837-fc12a26d71e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Đăng Nhập:'])[1]/following::button[1]</value>
-      <webElementGuid>93c7e87d-13b7-4b42-89de-0beefe58df72</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Đăng Nhập:'])[1]/following::p[1]</value>
+      <webElementGuid>be0a4cc1-6d8e-4849-8cd8-343c6e2ac770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng Nhập'])[2]/preceding::p[1]</value>
+      <webElementGuid>4ba9ab22-ce1a-40b4-bf43-f8e06ce8d0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User not found!']/parent::*</value>
+      <webElementGuid>15f96f79-947b-4e12-8a1c-3f154c6f2af7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>43a9ed6b-4e72-4c57-ade5-b4d686dd3996</webElementGuid>
+      <value>//p</value>
+      <webElementGuid>6bd8d13b-b36c-4154-b070-a17f7f53e79f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Đăng Nhập' or . = 'Đăng Nhập')]</value>
-      <webElementGuid>ef0be349-b609-4a58-91b3-ee943c380a83</webElementGuid>
+      <value>//p[(text() = 'User not found!' or . = 'User not found!')]</value>
+      <webElementGuid>2f4ed1b5-b51c-49f4-952e-c6007f50401e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

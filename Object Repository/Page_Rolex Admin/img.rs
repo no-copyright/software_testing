@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Tn ng Nhp_username</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>c704df94-4d8b-474d-aa94-baaae65aaac6</elementGuidId>
+   <elementGuidId>ee6459f7-2113-4a50-b4e7-e916a5eafb27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>img[alt=&quot;Logo&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//div[@id='root']/div[2]/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>internal:role=img[name=&quot;Logo&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,71 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>358a0499-8f74-4e12-98cf-735f696dc667</webElementGuid>
+      <value>img</value>
+      <webElementGuid>c9b94621-06b3-405c-a595-55017d060a86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>7863947b-5c2b-4d3d-9735-b6b4b8dee82f</webElementGuid>
+      <value>../../images/Rolex_logo.svg</value>
+      <webElementGuid>5625dc75-a42a-4622-bee6-421cccce52bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>3c1a4cd4-e68b-4013-8bda-e98c530ddd4f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>3dff18dd-1eeb-4f7b-977b-bd534fb4361d</webElementGuid>
+      <value>Logo</value>
+      <webElementGuid>b23111ac-2a31-4f69-a11c-0367b25f93ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>f6ad7e58-9585-4db2-ac01-91cd9f810807</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-sidebar&quot;]/div[@class=&quot;admin-sidebar-top&quot;]/img[1]</value>
+      <webElementGuid>be7ced39-5515-49bc-849f-4defda45e5ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>ffdb9edc-dce1-45bf-8496-005b38057053</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/img</value>
+      <webElementGuid>f48a7413-bb51-4ca7-abfd-3e8b5e55488a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/div/input</value>
-      <webElementGuid>28f35c09-bae5-466f-9e97-ed66508cee60</webElementGuid>
+      <value>//img[@alt='Logo']</value>
+      <webElementGuid>028bf016-28b6-494f-80ca-08f173061b4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>8d13fc75-a4b2-476a-8146-55ae5aafb33b</webElementGuid>
+      <value>//img</value>
+      <webElementGuid>3cc0391e-382d-46ff-8782-724341d6e810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username' and @placeholder = 'Username']</value>
-      <webElementGuid>7783817d-96fd-4e3b-bd70-2afba9cf5336</webElementGuid>
+      <value>//img[@src = '../../images/Rolex_logo.svg' and @alt = 'Logo']</value>
+      <webElementGuid>b1b1d39b-d118-499b-961f-8bc92d599bff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
