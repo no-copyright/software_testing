@@ -147,10 +147,10 @@ try {
         // Nếu không có check_login, thử click vào ảnh để xác định đăng nhập thành công
         try {
             WebUI.click(findTestObject('Page_Rolex Admin/img'))
-            message = "Đăng nhập thành công (Click được vào ảnh)"
+            message = "Đăng nhập thành công"
             loginSuccess = true
         } catch (Exception imgError) {
-            message = "Đăng nhập thất bại (Không click được vào ảnh): " + imgError.getMessage()
+            message = "Đăng nhập thất bại" + imgError.getMessage()
             loginSuccess = false
         }
     }
