@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Sn Phm_fa-solid fa-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>b237dfe2-bdb0-4129-83ad-8d92e531e17d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > i.fa-solid.fa-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sản Phẩm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>28ee3a57-5429-4ca6-b289-4c49f5b8178a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-chevron-down</value>
+      <webElementGuid>f0e44db7-92ce-4e26-9983-0cc067e1bc17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5928799a-03a3-4de5-926d-71d5f1c43513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-sidebar&quot;]/div[@class=&quot;admin-sidebar-content&quot;]/ul[1]/li[2]/a[1]/i[@class=&quot;fa-solid fa-chevron-down&quot;]</value>
+      <webElementGuid>6fd5f1f2-0bb7-4815-8db8-c0054c0e9a46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/ul/li[2]/a/i</value>
+      <webElementGuid>049b930d-417a-4b0e-8570-70a5b14edbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>6a2fad3b-1585-4001-ba87-4d38646f6085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

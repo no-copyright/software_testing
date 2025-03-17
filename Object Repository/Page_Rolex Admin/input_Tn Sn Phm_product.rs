@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Mt Khu_password</name>
+   <name>input_Tn Sn Phm_product</name>
    <tag></tag>
-   <elementGuidId>d8615089-1a9f-4b58-bad3-2289ecc4e14b</elementGuidId>
+   <elementGuidId>9fb777b7-9e43-431e-8e22-a7688f027345</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>input[name=&quot;product&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@name='product']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Password&quot;i]</value>
+         <value>input[name=&quot;product&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,70 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>39642a71-c21c-4dfb-8619-18c0b2fcb898</webElementGuid>
+      <webElementGuid>11e11d62-e62f-485d-be55-de6691db0bd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>133d18be-cf80-42df-9ac0-bb1ab4d80ac3</webElementGuid>
+      <value>text</value>
+      <webElementGuid>9bc41d03-a8dc-4c14-928f-4bf09cb482fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>0ff88f99-76fc-48f8-92f8-6480cb4cbda4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>764675d6-258a-4b17-9f8a-1dc5820c44d7</webElementGuid>
+      <value>product</value>
+      <webElementGuid>2b905dac-4dcc-4e9e-9f6a-cb1827c14f20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>be884e7c-2359-4e55-9478-bd90b84c5944</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-add-container&quot;]/form[@class=&quot;product-add-form&quot;]/div[@class=&quot;form-group&quot;]/input[1]</value>
+      <webElementGuid>f18c66b4-e8b9-43c7-89cd-477c1ca59038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>123</value>
+      <webElementGuid>769a625d-9100-43cd-911b-e7c08c4a46c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>3fe0af2c-fdfb-4ec5-a8e2-b645aaf42bc0</webElementGuid>
+      <value>//input[@name='product']</value>
+      <webElementGuid>eed26ad5-6df9-42c6-b728-61a4323204c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/div[2]/input</value>
-      <webElementGuid>8225121f-0c1f-4dd9-a149-c032040400f5</webElementGuid>
+      <value>//div[@id='root']/div[3]/form/div/input</value>
+      <webElementGuid>b53ab846-080f-4358-a614-140d8faaeccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>5045f036-ff93-40b8-8c67-3e558eef2e02</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>89af407a-7b69-4929-872f-11f1d0a81a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>2f0939a8-dea2-46cc-bdba-665ad11d6511</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'product']</value>
+      <webElementGuid>fdfbab32-1e68-42ef-b465-813eb822c6f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

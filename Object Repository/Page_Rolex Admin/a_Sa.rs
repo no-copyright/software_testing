@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sa</name>
+   <tag></tag>
+   <elementGuidId>02c1bbdc-ad11-48f5-b9b8-6c7cdff9ffe5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(6) > td:nth-of-type(9) > a.btn.btn-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/table/tbody/tr[6]/td[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;8 123 123 123 123 123 123 Visible Sửa Private Xóa&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8660a478-c231-40a7-b293-ed1d0c62836f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-edit</value>
+      <webElementGuid>1de12e85-dc47-4f7b-a20d-2edd3f2e99a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/8</value>
+      <webElementGuid>554659d6-f7c9-4ba2-8dac-5574200e3553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-discover</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b9c33093-f8a0-4da8-92b4-e81d03f7d686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sửa</value>
+      <webElementGuid>ad26a348-2fd8-4117-9367-30f8dec72391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-content-main-content&quot;]/table[@class=&quot;admin-table&quot;]/tbody[1]/tr[6]/td[9]/a[@class=&quot;btn btn-edit&quot;]</value>
+      <webElementGuid>c837294a-4259-43c3-b399-bab34706147d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/table/tbody/tr[6]/td[9]/a</value>
+      <webElementGuid>247ca8d5-5b39-4a22-af7c-c14c9e05ba0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Sửa')])[6]</value>
+      <webElementGuid>f38ed788-f84e-4d6e-a87d-c36eff14aff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visible'])[6]/following::a[1]</value>
+      <webElementGuid>48688f4e-8ca0-4ca7-8c50-b9ec463098be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[5]/following::a[1]</value>
+      <webElementGuid>8a1f6d0c-9c9c-4ac4-b6f2-70a4fbbb13da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[6]/preceding::a[1]</value>
+      <webElementGuid>a5de5761-8f5b-4c21-82a0-1c4944f6d773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[6]/preceding::a[1]</value>
+      <webElementGuid>28accb8a-3bf0-4976-aeba-d9f53a6a4bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/product/8')]</value>
+      <webElementGuid>9ba280fe-7aee-445d-b532-03dec33597a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[9]/a</value>
+      <webElementGuid>e1a53cd9-8850-40b6-9e13-f9f2631d649a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/8' and (text() = 'Sửa' or . = 'Sửa')]</value>
+      <webElementGuid>05e39412-3ef5-4770-916f-bd368392bc5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

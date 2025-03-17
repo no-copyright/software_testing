@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_file</name>
+   <tag></tag>
+   <elementGuidId>7f6b94a4-e6bb-4f67-9902-c82e55ddb84b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='file']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@type='file']</value>
+      <webElementGuid>8b9fc8fd-3b25-411e-ab55-9cb4b13fdb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/form/div[2]/input</value>
+      <webElementGuid>623b2bb3-c3f1-46c5-a78d-b795df49e175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>c0a2c149-3840-4bf8-b1bf-162c13423408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>66f2b29c-0f06-4485-a5b9-c0eb0a76ba1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng Nhp</name>
+   <name>input_Danh Mc_category</name>
    <tag></tag>
-   <elementGuidId>595903bf-c7cc-46f0-951d-d01937378b30</elementGuidId>
+   <elementGuidId>54b235ba-d62a-4b23-a341-232d1ce93ada</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.login-button</value>
+         <value>input[name=&quot;category&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//input[@name='category']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Đăng Nhập&quot;i]</value>
+         <value>input[name=&quot;category&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c8b6a863-c6a0-48f8-93e4-702bb4eec3c0</webElementGuid>
+      <value>input</value>
+      <webElementGuid>25104821-9881-4796-b9ac-9a6b64603bf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>b7199cae-103d-4fe2-95ee-4971ac23f72b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>login-button</value>
-      <webElementGuid>18201a8e-ee79-4d1e-996e-e9a27dbc9fab</webElementGuid>
+      <value>text</value>
+      <webElementGuid>e33495ec-bd48-46fb-9640-9d64f8640cfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Đăng Nhập</value>
-      <webElementGuid>df6b0dac-3427-404e-bf3d-9f758f377559</webElementGuid>
+      <value>category</value>
+      <webElementGuid>f02ff102-cbf7-4b91-9a93-c0b878af2674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/form[@class=&quot;login-form&quot;]/button[@class=&quot;login-button&quot;]</value>
-      <webElementGuid>bab115b8-3f3e-4d80-ab0c-ec2154ecd1ae</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-add-container&quot;]/form[@class=&quot;product-add-form&quot;]/div[@class=&quot;form-group&quot;]/input[1]</value>
+      <webElementGuid>d6979f01-b49f-4e89-9f6b-e1749fc39792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>123</value>
+      <webElementGuid>dbff408c-75ab-4764-9f29-dfca481cd9a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>b27e4034-de29-492a-b139-508ea1ac3832</webElementGuid>
+      <value>//input[@name='category']</value>
+      <webElementGuid>8422eb9d-2314-4704-8330-e128332d5d59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/button</value>
-      <webElementGuid>482938bb-ef17-4985-977c-ed3be70d6cbd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật Khẩu:'])[1]/following::button[1]</value>
-      <webElementGuid>12be6364-4398-4573-8aca-fdebcf6dbcf1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Đăng Nhập:'])[1]/following::button[1]</value>
-      <webElementGuid>3ee890a5-0176-4047-a9aa-1b1444c58f13</webElementGuid>
+      <value>//div[@id='root']/div[3]/form/div[5]/input</value>
+      <webElementGuid>6e582684-2444-428f-a2d8-400334423009</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>f41ae891-6733-4219-a74d-dc1e0f9f2bb5</webElementGuid>
+      <value>//div[5]/input</value>
+      <webElementGuid>97e7fbac-823d-40b0-b9ea-57d206dec1e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Đăng Nhập' or . = 'Đăng Nhập')]</value>
-      <webElementGuid>9083012d-58ca-45d5-afdb-edc8781b81d0</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'category']</value>
+      <webElementGuid>aa82da01-556b-4a18-baf6-5ce04d53a768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/form/div[6]/input</value>
+      <webElementGuid>bc1114be-4333-4d23-8d30-095641bedbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/input</value>
+      <webElementGuid>d6bb30b9-69a5-40ab-bc29-8e84b5db679d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

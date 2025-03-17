@@ -166,26 +166,26 @@ try {
 
     WebUI.click(findTestObject('Object Repository/Page_To mi n hng/button_Thanh ton'))
 
-    WebUI.click(findTestObject('Object Repository/Page_Chn phng thc thanh ton (Test)/div_Th ni a v ti khon ngn hng_list-bank-item-inner'))
+    WebUI.click(findTestObject('Object Repository/Page_Chọn phương thức thanh toán (Test)/div_Th ni a v ti khon ngn hng_list-bank-item-inner'))
 
-    WebUI.setText(findTestObject('Object Repository/Page_Thanh ton qua Ngn hng NCB/input_Th ni a_card_number_mask'), card_number)
+    WebUI.setText(findTestObject('Object Repository/Page_Thanh toán qua Ngân hàng NCB/input_Th ni a_card_number_mask'), card_number)
 
-    WebUI.setText(findTestObject('Object Repository/Page_Thanh ton qua Ngn hng NCB/input_S th_cardHolder'), cardholder_name)
+    WebUI.setText(findTestObject('Object Repository/Page_Thanh toán qua Ngân hàng NCB/input_S th_cardHolder'), cardholder_name)
 
-    WebUI.setText(findTestObject('Object Repository/Page_Thanh ton qua Ngn hng NCB/input_Tn ch th_cardDate'), release_date)
+    WebUI.setText(findTestObject('Object Repository/Page_Thanh toán qua Ngân hàng NCB/input_Tn ch th_cardDate'), release_date)
 
-    WebUI.click(findTestObject('Object Repository/Page_Thanh ton qua Ngn hng NCB/span_Tip tc'))
+    WebUI.click(findTestObject('Object Repository/Page_Thanh toán qua Ngân hàng NCB/span_Tip tc'))
 
-    WebUI.click(findTestObject('Object Repository/Page_Thanh ton qua Ngn hng NCB/span_ng   Tip tc'))
+    WebUI.click(findTestObject('Object Repository/Page_Thanh toán qua Ngân hàng NCB/span_ng   Tip tc'))
 
     // Chờ 7 giây để kiểm tra xem có chuyển qua màn hình OTP không
-    TestObject otpInput = findTestObject('Object Repository/Page_Xc thc OTP/input_Xc thc OTP_otpvalue')
+    TestObject otpInput = findTestObject('Object Repository/Page_Xác thực OTP/input_Xc thc OTP_otpvalue')
     boolean isOtpPageDisplayed = WebUI.waitForElementPresent(otpInput, 7)
 
     // Nếu không chuyển được qua trang OTP, chứng tỏ thông tin thẻ không hợp lệ
     if (!isOtpPageDisplayed) {
         // Kiểm tra có hiển thị thông báo lỗi không
-        TestObject errorMessageObject = findTestObject('Object Repository/Page_Thanh ton qua Ngn hng NCB/div_Error_Message_Locator') // Thay thế bằng locator thực tế
+        TestObject errorMessageObject = findTestObject('Object Repository/Page_Thanh toán qua Ngân hàng NCB/div_Error_Message_Locator') // Thay thế bằng locator thực tế
         boolean errorMessagePresent = WebUI.waitForElementPresent(errorMessageObject, 3)
         
         String errorMessage = "Không thể chuyển qua trang nhập OTP sau khi nhập thông tin thẻ"
@@ -201,7 +201,7 @@ try {
     // Nếu đã chuyển sang trang OTP, tiếp tục nhập OTP
     WebUI.setText(otpInput, otp)
 
-    WebUI.click(findTestObject('Object Repository/Page_Xc thc OTP/span_Thanh ton'))
+    WebUI.click(findTestObject('Object Repository/Page_Xác thực OTP/span_Thanh ton'))
 
     // Kiểm tra xem thanh toán thành công hay không
     try {

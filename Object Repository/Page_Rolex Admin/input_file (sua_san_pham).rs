@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Mt Khu_password</name>
+   <name>input_file (sua_san_pham)</name>
    <tag></tag>
-   <elementGuidId>d8615089-1a9f-4b58-bad3-2289ecc4e14b</elementGuidId>
+   <elementGuidId>520e6629-753f-408f-89f8-dea571e57e50</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>input[type=&quot;file&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@type='file']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Password&quot;i]</value>
+         <value>input[type=&quot;file&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,55 +29,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>39642a71-c21c-4dfb-8619-18c0b2fcb898</webElementGuid>
+      <webElementGuid>1d5a15fd-5e8f-450b-a498-59abbcaf1df0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>133d18be-cf80-42df-9ac0-bb1ab4d80ac3</webElementGuid>
+      <value>file</value>
+      <webElementGuid>59fe7339-1ad7-4939-bf9a-3dcf081c94b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>accept</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>0ff88f99-76fc-48f8-92f8-6480cb4cbda4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>764675d6-258a-4b17-9f8a-1dc5820c44d7</webElementGuid>
+      <value>image/*</value>
+      <webElementGuid>015b7c1f-01f6-4732-8648-0e828045a297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>be884e7c-2359-4e55-9478-bd90b84c5944</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;product-add-container&quot;]/form[@class=&quot;product-add-form&quot;]/div[@class=&quot;form-group&quot;]/input[1]</value>
+      <webElementGuid>dcc706dd-7b93-43f7-a014-b47ec84f1a40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>3fe0af2c-fdfb-4ec5-a8e2-b645aaf42bc0</webElementGuid>
+      <value>//input[@type='file']</value>
+      <webElementGuid>1ea11bdc-01f3-4605-a20a-e128991646ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/div[2]/input</value>
-      <webElementGuid>8225121f-0c1f-4dd9-a149-c032040400f5</webElementGuid>
+      <value>//div[@id='root']/div[3]/form/div[2]/input</value>
+      <webElementGuid>b750375c-aa68-4e3c-9386-ed98bc2418c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,14 +77,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>5045f036-ff93-40b8-8c67-3e558eef2e02</webElementGuid>
+      <webElementGuid>319087e7-b18d-40e2-ba74-16de7b0ebd2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>2f0939a8-dea2-46cc-bdba-665ad11d6511</webElementGuid>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>9322736c-1aa0-4d88-9f5d-1bcc09ec6367</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
