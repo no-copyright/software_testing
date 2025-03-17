@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>af859e23-3e7b-4b25-8bbe-aca99d1c88e1</webElementGuid>
+      <webElementGuid>4ee67cb0-0d64-46d0-94fe-d2961d135a7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cart-popup__close-btn</value>
-      <webElementGuid>b82ac7b4-a311-450d-b0fc-a385321586b8</webElementGuid>
+      <webElementGuid>fded533a-f786-431e-971e-15ae691b511f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>✖</value>
-      <webElementGuid>972a3834-8655-4d09-9ad6-9e914b6a29f6</webElementGuid>
+      <webElementGuid>102e21d4-3aa8-4ab4-b558-9eb63988ffbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;cart-popup&quot;]/div[@class=&quot;cart-popup__content&quot;]/button[@class=&quot;cart-popup__close-btn&quot;]</value>
-      <webElementGuid>2f83efba-ebc6-4d0d-a7ad-a886c8e8217b</webElementGuid>
+      <webElementGuid>a2045998-6a1c-4b6f-9fb2-fe67ba9b41a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[3]/div/button</value>
-      <webElementGuid>f9c84447-c14a-4e0e-a899-5cc8d6f42bf4</webElementGuid>
+      <webElementGuid>cf7932c3-22aa-4f13-a965-abb432756206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Instagram'])[1]/following::button[1]</value>
-      <webElementGuid>3d5886f0-a4f9-46a3-a45e-7c371eedb868</webElementGuid>
+      <webElementGuid>a392ce7b-094d-412d-ac1e-9ac3ce762d89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::button[1]</value>
-      <webElementGuid>d4f8ce62-a44e-41a2-91e2-7b2aad130084</webElementGuid>
+      <webElementGuid>45905413-0635-4d28-882b-391d61bf3b6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ Hàng'])[1]/preceding::button[1]</value>
-      <webElementGuid>94ada793-315a-4293-a26e-362eddf3c6c8</webElementGuid>
+      <webElementGuid>6d8b7574-41a7-474e-936b-1371e8a2c77a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='✖']/parent::*</value>
-      <webElementGuid>ea72139a-baf5-45f1-b8a7-d0660c6648a7</webElementGuid>
+      <webElementGuid>d524d372-7fda-4397-951c-8f55565dc234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>07bba1d0-c862-4e7f-99db-c550e5618b92</webElementGuid>
+      <webElementGuid>d4caef1b-e989-47f6-9ce6-2d3268f1465d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = '✖' or . = '✖')]</value>
-      <webElementGuid>52f021af-fd57-4068-92cb-931cdbecad58</webElementGuid>
+      <webElementGuid>b1129520-0b55-4d93-881a-afb01f67828a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông Tin Người Dùng'])[1]/preceding::button[1]</value>
+      <webElementGuid>2220560e-eeb1-4f97-954b-982bf20280d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Người Dùng:'])[1]/preceding::button[1]</value>
+      <webElementGuid>042b4a9d-1974-4888-870d-65f1afa99e28</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

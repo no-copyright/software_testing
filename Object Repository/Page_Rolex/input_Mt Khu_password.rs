@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter your password&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Mật khẩu&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d25cd3d6-f399-4c57-a7b5-a124c1a27af0</webElementGuid>
+      <webElementGuid>744570c2-93f8-43ba-b788-f33a39d04193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>908352b3-e145-4598-9cb6-a342f90c342d</webElementGuid>
+      <webElementGuid>d1d19ea0-fd3b-465a-9c4c-c1302ae5adc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e2d9c7fe-7b90-49cd-97f0-da0a9139e17a</webElementGuid>
+      <webElementGuid>9b4f6582-ec28-438c-800d-2c3cfe809ce0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter your password</value>
-      <webElementGuid>81414c0c-c429-494e-9cf5-5f7d3253b1d9</webElementGuid>
+      <value>Mật khẩu</value>
+      <webElementGuid>35a2e95c-9d65-42f8-b0b6-a1035f747e8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>27aabeb7-15d1-4d1d-9c28-47f9780d0097</webElementGuid>
+      <webElementGuid>86b5d07f-a371-4fc4-a389-e963692ab9f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>aac2c205-9b96-493b-9df5-7bade8d3ceb7</webElementGuid>
+      <webElementGuid>d7938d7c-c8cb-4a26-8802-17572ac677df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/div/form/input[2]</value>
-      <webElementGuid>915d8919-6bfb-48e5-992e-230dde171f0d</webElementGuid>
+      <webElementGuid>dd238a65-aab5-4b49-b59d-d2783d120ab9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>f45129f3-6c1f-4a10-8a51-17fdf3d8fac6</webElementGuid>
+      <webElementGuid>f3f22526-df15-41fa-90bc-47e7ab17756f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Mật khẩu']</value>
+      <webElementGuid>fc113150-8034-45dd-a560-c4209821dc8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,14 +118,6 @@
       <type>Main</type>
       <value>//input[4]</value>
       <webElementGuid>960c8000-457e-40f1-96af-d355244e01f1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @placeholder = 'Mật khẩu']</value>
-      <webElementGuid>ea33ddc8-2325-42c6-a1a9-7657dad29993</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

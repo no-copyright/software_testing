@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter your username&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Tên đăng nhập&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>74fa1f4c-895f-4d0c-beaa-c940c98ac4ad</webElementGuid>
+      <webElementGuid>0b51016c-7d80-4e18-8f61-55db9ec997c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e5e1b696-5e44-4a26-8257-4aa915dcf57f</webElementGuid>
+      <webElementGuid>f5437705-c97f-40d3-9c4c-ffb38ec98f93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>4de0b0ae-4e84-4b41-bc11-29cfc36dc721</webElementGuid>
+      <webElementGuid>5179f688-663a-4738-a247-e242b46b171e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter your username</value>
-      <webElementGuid>c906e3fb-f9cf-410e-8486-c765019d259b</webElementGuid>
+      <value>Tên đăng nhập</value>
+      <webElementGuid>5a604234-13f1-49ec-b33b-e4d3e0f332cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;username&quot;)</value>
-      <webElementGuid>b4dfad7a-2baf-49c5-a95a-0033884d0a49</webElementGuid>
+      <webElementGuid>5a5dc0b0-6016-46ab-b834-38973c887fb4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='username']</value>
-      <webElementGuid>21198326-ad05-475e-a938-7dfeed47d2e8</webElementGuid>
+      <webElementGuid>17d5bbbd-1f20-433a-b0c3-935b439bbedb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/div/form/input</value>
-      <webElementGuid>c739b14a-76d7-4486-9c04-0d5648e4ac66</webElementGuid>
+      <webElementGuid>34330e2f-a5db-43a1-b984-9d4add2f3170</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0df21e43-d159-46ca-bfd1-a2f654662ed3</webElementGuid>
+      <webElementGuid>dbb3e7ef-b94e-4410-b950-acfc4daabe37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'username' and @placeholder = 'Tên đăng nhập']</value>
+      <webElementGuid>2e0e6f79-5521-4dd6-9494-3ac8d4df7fbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

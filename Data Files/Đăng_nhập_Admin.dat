@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Đăng_nhập_Data(Quản trị)</name>
+   <name>Đăng_nhập_Admin</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>4f218548-b094-4913-96bb-d8adc6acbb31</dataFileGUID>
+   <dataFileGUID>d78f6ddb-efb1-48ce-9f02-239ad66c1e90</dataFileGUID>
    <dataSourceUrl>D:\software_testing\Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>

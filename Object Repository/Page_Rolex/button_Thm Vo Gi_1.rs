@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0e4eab3b-e168-4a74-b29d-7cf0b368d676</webElementGuid>
+      <webElementGuid>922ad721-17b9-49d4-b5c1-e2812b7091b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>add-to-cart-btn</value>
-      <webElementGuid>d9b2fe4f-adaf-4118-8c41-a4d9c50fbac6</webElementGuid>
+      <webElementGuid>240ced12-d54f-496d-b6f6-f348a809b863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Thêm Vào Giỏ</value>
-      <webElementGuid>4b021e0d-1445-414b-bdcd-5e91145e4a33</webElementGuid>
+      <webElementGuid>fd3af0c6-58d7-4b6f-9a14-8aa3bb66c440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;product-container&quot;]/div[@class=&quot;product-grid&quot;]/div[@class=&quot;product-item&quot;]/button[@class=&quot;add-to-cart-btn&quot;]</value>
-      <webElementGuid>8495d705-4c93-4fa8-abd7-9cf49033a831</webElementGuid>
+      <webElementGuid>1c67713a-1d56-45b7-a2a9-cae03516c296</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/div[2]/button</value>
-      <webElementGuid>9e20d1a0-7331-494a-85cf-39f9d255fce7</webElementGuid>
+      <webElementGuid>09ee6bd6-6121-4bde-a66f-aafe0e45bad8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Watch'])[1]/following::button[1]</value>
-      <webElementGuid>a733f4bf-f49f-4587-99b3-fabf3cf23f7f</webElementGuid>
+      <webElementGuid>54dc8a7a-93ff-45cf-9942-f9e9b344dfa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm Vào Giỏ'])[1]/following::button[1]</value>
-      <webElementGuid>3d66f2ff-4807-4fe1-8458-ca23d1fe5091</webElementGuid>
+      <webElementGuid>6f686bb7-4234-42ee-bd0a-71d5581a2b2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Luxury Watch'])[1]/preceding::button[1]</value>
-      <webElementGuid>03b2565b-ebc4-4c00-a3ba-30d483146da8</webElementGuid>
+      <webElementGuid>61ead32a-9605-4015-87dc-d359f6e8d348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm Vào Giỏ'])[3]/preceding::button[1]</value>
-      <webElementGuid>0836dfa8-71f2-481a-888a-d16769956017</webElementGuid>
+      <webElementGuid>98b61dcb-b9fe-449d-bb98-c8b1163e83b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>b5a0b8a0-72e2-49f8-ab1c-29e1dcd3587e</webElementGuid>
+      <webElementGuid>c20ad761-bdb6-425f-8a7c-06fa797826d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Thêm Vào Giỏ' or . = ' Thêm Vào Giỏ')]</value>
-      <webElementGuid>4197f842-73db-4c83-a91f-2129eb933f6b</webElementGuid>
+      <webElementGuid>9329325e-c7a0-4af2-94b7-5769e87b225c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
